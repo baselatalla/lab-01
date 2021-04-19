@@ -1,0 +1,108 @@
+@media screen and (max-width: 768px) {
+    header, main {
+      max-width: 480px; 
+    }
+    section{
+        width: 480px;
+        height: 125px;
+        line-height: 125px;
+    }
+    article{
+        max-width: 240px;
+        width: 240px;
+        height: 250px;
+        line-height: 250px;
+    }
+    #a{
+        width: 480px;
+        height: 75px;
+        line-height: 75px;
+        background-color: chartreuse;
+    }
+    #b{
+        width: 480px;
+        height: 150px;
+        line-height: 150px;
+        background-color: violet;
+    }
+    #c{
+       
+        background-color: brown;
+    }
+    #d{
+        
+        background-color: cornflowerblue;
+    }
+    #e{
+      background-color: aquamarine;
+      
+    }
+    #f{
+        background-color: thistle;
+    }
+    #g{
+        background-color: yellowgreen;
+    }
+    #h{
+        background-color: blue;
+    }
+    #i{
+        width: 480px;
+        height: 80px;
+        line-height: 80px;
+    }
+  }
+  @media screen and (min-width: 768px) and (max-width: 960px){
+    header, main {
+        max-width: 768px;
+    }
+    section{
+        width: 304px;
+        height: 160px;
+        line-height: 160px;
+    }
+    article{
+        max-width: 240px;
+        width: 152px;
+        height: 200px;
+        line-height: 200px;
+    }
+    #a{
+        width: 768px;
+        height: 80px;
+        line-height: 80px;
+        background-color: rgb(92, 117, 67);
+    }
+    #b{
+        width: 160px;
+        height: 480px;
+        line-height: 480px;
+        background-color: rgb(70, 41, 70);
+    }
+    #c{
+        
+        background-color: rgb(104, 0, 0);
+    }
+    #d{
+        
+        background-color: rgb(175, 203, 255);
+    }
+    #e{
+      background-color: rgb(59, 116, 97);
+      
+    }
+    #f{
+        background-color: rgb(184, 108, 184);
+    }
+    #g{
+        background-color: rgb(120, 146, 68);
+    }
+    #h{
+        background-color: rgb(47, 47, 104);
+    }
+    #i{
+        width: 608px;
+        height: 120px;
+        line-height: 120px;
+    }
+  }
