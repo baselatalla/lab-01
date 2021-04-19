@@ -1,3 +1,9 @@
+#a{
+    background-color: aqua;
+}
+#b{
+    background-color: blueviolet;
+}
 #c{
     background-color: crimson;
 }
@@ -18,4 +24,7 @@
 }
 #h{
     background-color: teal;
+}
+#i{
+    background-color: chocolate;
 }
